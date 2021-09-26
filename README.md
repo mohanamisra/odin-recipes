@@ -1,0 +1,2 @@
+This is a practice project for The Odin Project. Using this, I have learnt and applied various html concepts and ideas like making lists, using heading tags, embedding images and using relative links.
+Note:- All recipes have been copied from previously existing authors.
